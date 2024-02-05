@@ -28,11 +28,11 @@ versions of the agendas.
 
 Date | Cohort Call Topics          | Open science resources |      Guest Teachers
 ----| ------------------|----------------------|--------------------------------
-| 04/03 | 1. Openscapes mindset, Better science in less time | [mindset](https://openscapes.github.io/series/mindset), [better science in less time](https://openscapes.github.io/series/better-science.html) |
-| 04/17 | 2. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies for cloud](https://nsidc.github.io/data_strategies_for_future_us/data_strategies_slides#/title-slide) |
-| 05/01 |  3. Open communities and coding strategies for future us | [open communities](https://openscapes.github.io/series/communities), coding strategies for cloud |
-| 05/15 |  4. NASA Earthdata Cloud Clinic, hands-on lesson from NASA Mentors | [NASA Earthdata Cloud Clinic](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/examples/Earthdata-cloud-clinic.html) |
-| 05/29 | 5. Pathways share | [Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/)  |
+04/03 | 1. Openscapes mindset, Better science in less time | [mindset](https://openscapes.github.io/series/mindset), [better science in less time](https://openscapes.github.io/series/better-science.html) |
+04/17 | 2. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies for cloud](https://nsidc.github.io/data_strategies_for_future_us/data_strategies_slides#/title-slide) |
+05/01 |  3. Open communities and coding strategies for future us | [open communities](https://openscapes.github.io/series/communities), coding strategies for cloud |
+05/15 |  4. NASA Earthdata Cloud Clinic, hands-on lesson from NASA Mentors | [NASA Earthdata Cloud Clinic](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/examples/Earthdata-cloud-clinic.html) |
+05/29 | 5. Pathways share | [Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/)  |
 
 Cohort Call Digests are posted as Discussions in this repo.
 
