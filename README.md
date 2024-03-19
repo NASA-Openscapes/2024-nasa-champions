@@ -36,21 +36,13 @@ Date | Cohort Call Topics          | Open science resources |      Teaching Lead
 
 Cohort Call Digests are posted as Discussions in this repo.
 
-## Co-working times (optional)
+## Coworking times (optional)
 
-Co-working sessions are where we work at the same time together.
-Sometimes, this means quiet work with check-ins to break up focused work
-and get feedback, and sometimes this involves asking questions and
-screensharing to learn and problem solve.
+Coworking sessions are where we work at the same time together. Sometimes, this means quiet work with check-ins to break up focused work
+and get feedback, and sometimes this involves asking questions and screensharing to learn and problem solve.
 
 Coworking takes place in the weeks between Cohort Calls on alternating
-Thursdays: May 11, 25, June 8. 10:00 - 11:30 am PT.
-
-<!--- 
-- **Dates:** April 3, 17, May 1, 15, 29.
-- **Times:** 10:00 - 11:30 am PT
-- **Location:** remotely, via Zoom
---->
+Thursdays following our second Cohort Call: April 25, May 9, 23. 10:00 - 11:30 am PT.
 
 ## Participating teams
 
