@@ -26,13 +26,15 @@ Folder](https://drive.google.com/drive/folders/15_riqbdEcz6luf74yovJy-oKxIiKkU8r
 google-docing. Please see <https://openscapes.github.io/series> to view blank
 versions of the agendas.
 
+**NASA Openscapes Mentors have iterated lessons each year. In 2024 Data Strategies for Cloud included "When to Cloud" and Coding Strategies for Cloud included parallelizing code. All previous lessons are linked from <https://openscapes.github.io/series>.**
+
 Date | Cohort Call Topics          | Open science resources |      Teaching Leads
 ----| ------------------|----------------------|--------------------------------
 04/03 | 1. Openscapes mindset, Better science in less time | [mindset](https://openscapes.github.io/series/mindset), [better science in less time](https://openscapes.github.io/series/better-science.html) | Aronne Merilli (University of Michigan & 2023 Champion), (Michele Thornton (ORNL)
 04/17 | 2. NASA Earthdata Cloud Clinic, hands-on lesson from NASA Mentors | [NASA Earthdata Cloud Clinic](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/examples/Earthdata-cloud-clinic.html) | Catalina Taglialatela (PO.DAAC) & Luis Lopez (NSIDC)
-05/01 |  3. Team culture and data strategies for future us in the Cloud | [team culture](https://openscapes.github.io/series/team-culture), [data strategies for cloud](https://nsidc.github.io/data_strategies_for_future_us/data_strategies_slides#/title-slide) | Matt Fisher (NSIDC), Alexis Hunzinger (GES DISC)
-05/15 |  4. Open communities and coding strategies for future us in the Cloud | [open communities](https://openscapes.github.io/series/communities), coding strategies for cloud, [Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/) | Bri Lind (LP DAAC), Mahsa Jami (LP DAAC), Cassie Nickles (PO.DAAC)
-05/29 | 5. Pathways share | Budgeting in the Cloud | Andy Barrett (NSIDC)
+05/01 |  3. Team culture and data strategies for future us in the Cloud | [team culture](https://mfisher87.github.io/presentation-nasa-openscapes-team-culture/slides.html), [data strategies for cloud](https://docs.google.com/presentation/d/1ZbDimYsDfM_7iXc5O6a1tgKC1uFoa4Xue173wjUcCbs/) | Matt Fisher (NSIDC), Alexis Hunzinger (GES DISC)
+05/15 |  4. Open communities and coding strategies for future us in the Cloud | [open communities](https://openscapes.github.io/series/communities), [coding strategies for cloud](https://docs.google.com/presentation/d/1HjOXgvlGcq01srJF5RD7y5sx5u8pXJzHb1E5W7s9aKc/edit#slide=id.p), [Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/) | Bri Lind (LP DAAC), Mahsa Jami (LP DAAC), Cassie Nickles (PO.DAAC)
+05/29 | 5. Pathways share | earthaccess: Smart Access, [Budgeting and storing data in the cloud](https://docs.google.com/presentation/d/1iaqP8Hc4sEYBJnwftKFRhVGTaQPu2uLvQboQB-Dbeew/edit#slide=id.p) | Luis López (NSIDC), Andy Teucher (NASA Openscapes)
 
 Cohort Call Digests are posted as Discussions in this repo.
 
