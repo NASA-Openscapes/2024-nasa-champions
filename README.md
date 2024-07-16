@@ -36,7 +36,7 @@ Date | Cohort Call Topics          | Open science resources |      Teaching Lead
 05/15 |  4. Open communities and coding strategies for future us in the Cloud | [open communities](https://openscapes.github.io/series/communities), [coding strategies for cloud](https://docs.google.com/presentation/d/1HjOXgvlGcq01srJF5RD7y5sx5u8pXJzHb1E5W7s9aKc/edit#slide=id.p), [Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/) | Bri Lind (LP DAAC), Mahsa Jami (LP DAAC), Cassie Nickles (PO.DAAC)
 05/29 | 5. Pathways share | earthaccess: Smart Access, [Budgeting and storing data in the cloud](https://docs.google.com/presentation/d/1iaqP8Hc4sEYBJnwftKFRhVGTaQPu2uLvQboQB-Dbeew/edit#slide=id.p) | Luis López (NSIDC), Andy Teucher (NASA Openscapes)
 
-Cohort Call Digests are posted as Discussions in this repo.
+Cohort Call Digests are posted as Issues in this repo.
 
 ## Coworking times (optional)
 
