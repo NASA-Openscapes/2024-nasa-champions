@@ -80,8 +80,8 @@ Mentors](https://nasa-openscapes.github.io/mentors.html)
   Us](https://docs.google.com/presentation/d/1HGw4P095-lblHiGQHXYidHiVysjrPxuojxTxKtE13vk/edit#slide=id.ge2b7c2f974_0_2017)** -
   2021 plenary talk at the Society for Open, Reliable, and Transparent
   Ecology and Evolutionary biology (SORTEE) inaugural conference
-- **[Openscapes embraces kindness and inclusion in open
-  science](https://sparcopen.org/impact-story/openscapes-embraces-kindness-and-inclusion-of-open-science/)** -
+- **[Openscapes embraces kindness in open
+  science]()** -
   2021 article about Openscapes
 - **[openscapes.org](https://openscapes.org/)** – Openscapes is operated
   at the National Center for Ecological Analysis & Synthesis, UC Santa
